@@ -1,7 +1,6 @@
 # Rz Solutions
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rz-Solutions&color=000000&style=flat-square&label=Views)
-![GitHub followers](https://img.shields.io/github/followers/Rz-Software?style=flat-square&color=333)
 ![Status](https://img.shields.io/badge/Status-Engineering-red?style=flat-square)
 
 <div align="center">
@@ -9,6 +8,10 @@
 </div>
 
 ---
+
+## Organization Metrics
+
+![Metrics](./metrics.svg)
 
 ## Philosophy
 
@@ -26,23 +29,18 @@ We solve complex problems that others consider impossible. Two decades of experi
 
 **Problem-solving depth.** We don't implement features—we engineer solutions to fundamental challenges that create lasting competitive advantages.
 
-## Engineering Metrics
+## Engineering Standards
 
 <div align="center">
 
 ![Organization Repositories](https://img.shields.io/badge/dynamic/json?color=333&label=Active%20Projects&query=$.public_repos&url=https://api.github.com/orgs/Rz-Solutions&style=for-the-badge)
 ![Team](https://img.shields.io/badge/dynamic/json?color=666&label=Engineers&query=$.public_members&url=https://api.github.com/orgs/Rz-Solutions&style=for-the-badge)
 
-![Commit Frequency](https://img.shields.io/badge/Commits-Daily-green?style=flat-square&logo=git)
 ![Code Quality](https://img.shields.io/badge/Quality-Production%20Grade-brightgreen?style=flat-square&logo=codeclimate)
 ![Architecture](https://img.shields.io/badge/Architecture-Scalable-blue?style=flat-square&logo=architecture)
 ![Performance](https://img.shields.io/badge/Performance-Optimized-red?style=flat-square&logo=speedtest)
 
 </div>
-
-## Recent Activity
-
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Rz-Software&theme=minimal&hide_border=true&area=true&color=333333)
 
 ---
 
