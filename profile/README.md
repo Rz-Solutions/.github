@@ -11,7 +11,7 @@
 
 ## Organization Metrics
 
-![Metrics](./metrics.svg)
+![Metrics](https://raw.githubusercontent.com/Rz-Solutions/.github/main/metrics.svg)
 
 ## Philosophy
 
