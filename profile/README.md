@@ -16,19 +16,19 @@
 
 ## 🎯 Language Distribution
 
-<div align="center">
+| Language   | Lines   | Percentage | Usage |
+|------------|---------|------------|-------|
+| **C++**    | 445,000 | 59.8% | ████████████████████████████████████████████████████████████ |
+| **AutoIt** | 206,000 | 27.7% | ████████████████████████████ |
+| **C#**     | 49,000  | 6.6%  | ██████▌ |
+| **Python** | 34,000  | 4.6%  | █████ |
+| **JS**     | 10,000  | 1.3%  | █ |
 
-![Language Distribution](https://quickchart.io/chart?c={type:'doughnut',data:{labels:['C++','AutoIt','C#','Python','JavaScript'],datasets:[{data:[59.8,27.7,6.6,4.6,1.3],backgroundColor:['%2300599c','%231c3aa9','%23239120','%233776ab','%23f7df1e'],borderWidth:2,borderColor:'%23ffffff'}]},options:{responsive:true,plugins:{legend:{position:'bottom',labels:{color:'%23ffffff',font:{size:12}}},title:{display:true,text:'Code Distribution by Language',color:'%23ffffff',font:{size:16}}}},plugins:[{beforeDraw:function(chart){var ctx=chart.canvas.getContext('2d');ctx.fillStyle='%230d1117';ctx.fillRect(0,0,chart.canvas.width,chart.canvas.height);}}]}&width=400&height=300&backgroundColor=transparent)
-
-</div>
-
-| Language   | Lines  | Percentage |
-|------------|--------|------------|
-| **C++**    | 445,000 | ████████████████████████████████████████████████████████████ 59.8% |
-| **AutoIt** | 206,000 | ████████████████████████████ 27.7% |
-| **C#**     | 49,000  | ██████▌ 6.6% |
-| **Python** | 34,000  | █████ 4.6% |
-| **JS**     | 10,000  | █ 1.3% |
+![C++](https://img.shields.io/badge/C++-59.8%25-00599c?style=flat-square)
+![AutoIt](https://img.shields.io/badge/AutoIt-27.7%25-1c3aa9?style=flat-square)
+![C#](https://img.shields.io/badge/C%23-6.6%25-239120?style=flat-square)
+![Python](https://img.shields.io/badge/Python-4.6%25-3776ab?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-1.3%25-f7df1e?style=flat-square&logoColor=black)
 
 ---
 
