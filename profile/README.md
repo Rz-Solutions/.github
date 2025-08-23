@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔬 Rz Solutions
+# 🔬 Rz Software
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=Systems+Architecture+%E2%80%A2+Performance+Engineering;Low-Level+Development+%E2%80%A2+Complex+Problem+Solving;Advanced+Algorithms+%E2%80%A2+Scalable+Solutions;Two+Decades+of+Innovation" alt="Dynamic Typing" />
 
@@ -152,7 +152,7 @@ Computational algorithms, machine learning infrastructure, and breakthrough solu
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 💎 **Engineering Excellence Since 2004**
+### 💎 **Engineering Excellence Since 2008**
 
 ![Precision Engineering](https://img.shields.io/badge/Made%20with-Precision%20Engineering-black?style=flat-square&logo=target)
 ![Performance First](https://img.shields.io/badge/Philosophy-Performance%20First-red?style=flat-square&logo=flash)
