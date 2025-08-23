@@ -24,16 +24,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           
-          # Organization-specific plugins
-          plugin_organizations: yes
-          plugin_organizations_limit: 10
-          
-          # Repository statistics
-          plugin_topics: yes
-          plugin_topics_mode: starred
-          plugin_topics_sort: stars
-          plugin_topics_limit: 15
-          
           # Language statistics
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
@@ -60,9 +50,6 @@ jobs:
           plugin_notable_repositories: yes
           plugin_notable_indepth: yes
           plugin_notable_types: commit
-          
-          # Repository traffic (if accessible)
-          plugin_traffic: yes
           
           # Achievements
           plugin_achievements: yes
