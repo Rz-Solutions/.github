@@ -7,10 +7,11 @@
 
 ```
 Founded             2022-01-07 (1,324 days active)
-Repositories        40 total (38 private, 2 public)
+Total Projects      47 (across multiple accounts)
+Repositories        40 (38 private, 2 public in org)
 Total Commits       4,990
 Daily Avg           3.7 commits/day
-Lines of Code       ~37K
+Lines of Code       ~770K
 Total Codebase      1.5GB
 Active Projects     31/40 (77.5%)
 ```
