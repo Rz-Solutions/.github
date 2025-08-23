@@ -9,24 +9,26 @@
 Repositories        40
 Private Repos       38
 Total SLOC          ~800K
+Commits             5,200+
+Daily Avg           2.8 commits
+Current Streak      347 days
 Primary Languages   C++ (68%), C# (15%), Python (8%), AutoIt (7%), JS (2%)
-Active Projects     12
-Shipped Products    3
 ```
 
 ## Core Systems
 
-**Qanga Engine** - Custom C++ game engine, 19.8MB runtime  
-**UE5 Plugins** - Performance optimization and debugging tools  
+**Qanga** - UE5 game project with custom C++ components  
+**UE5 Plugins** - Performance optimization and debugging frameworks  
 **Asset Pipeline** - Multi-platform build and deployment automation  
-**Memory Tools** - Process manipulation and profiling frameworks  
+**Memory Tools** - Process manipulation and profiling libraries  
 
-## Current Focus
+## Technical Focus
 
 - Real-time rendering optimization
 - Multi-threaded architecture patterns  
 - Cross-platform system integration
 - Performance profiling frameworks
+- UE5 plugin development
 
 ---
 
