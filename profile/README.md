@@ -3,46 +3,58 @@
 
 ---
 
-## Organization Metrics
+## Development Metrics
 
 ```
 Founded             2022-01-07 (1,324 days active)
 Repositories        40 total (38 private, 2 public)
+Active Projects     31/40 (77.5% active in 2024)
 Total Codebase      ~1.5GB
-Development Span    2020-2024
-Language Repos      C# (15), Misc/Config (15), C++ (4), AutoIt (4), C (1), JS (1)
-Major Projects      6 (>10KB each)
+Trackable Commits   68+ (limited by API access)
+Daily Commit Rate   ~0.05 commits/day (visible commits only)
+
+Language Analysis:
+├── C# Projects     15 (60% of identified languages)
+├── C++ Projects    4 (16% - high complexity focus)
+├── AutoIt Tools    4 (16% - automation systems)  
+├── JavaScript      1 (4% - web interfaces)
+└── C Projects      1 (4% - low-level components)
 ```
 
-## Core Systems
+## Performance Engineering Focus
 
-**Qanga** - UE5 game project (629KB C++ codebase)  
-**AdaptativeMeshRender** - UE5 plugin system (687KB C++)  
-**CulDeSac** - UE5 development project (22KB C++)  
-**SoleoTech Suite** - Analysis and monitoring tools (C#)  
-**RzAssetControlCenter** - Asset management platform (C#)  
-**YOLOv10 Integration** - Computer vision implementation (12KB)  
+```
+C++ Development:
+├── Total Volume    1.34MB (1010KB/day average)
+├── Major Systems   3 (>20KB each)
+├── Qanga          629KB UE5 game architecture
+├── AdaptativeMesh 687KB rendering optimization
+└── CulDeSac       22KB development framework
 
-## Development Focus
+Automation Stack:
+├── AutoIt Tools   4 projects (game AI, monitoring)
+├── C# Frameworks  15 projects (asset management, analysis)
+└── Integration    Computer vision, memory manipulation
+```
 
-- UE5 plugin architecture and optimization
-- Real-time rendering systems  
-- Memory manipulation frameworks
-- Game development tooling
-- Computer vision integration
-- Asset pipeline automation
+## Technical Architecture
+
+- **Real-time Systems**: UE5 plugins, rendering optimization
+- **Performance Tools**: Memory profiling, asset pipeline automation  
+- **Game AI Systems**: Combat AI, pathfinding, automation frameworks
+- **Vision Integration**: YOLOv10 implementation, pattern matching
+- **Development Velocity**: 77.5% project activity rate, consistent C++ growth
 
 ---
 
 ```
-C#      ████████████████████████████████████████████ 37.5%
-Config  ████████████████████████████████████████████ 37.5%  
-C++     ██████████                                   10.0%
-AutoIt  ██████████                                   10.0%
-C       ██▌                                           2.5%
-JS      ██▌                                           2.5%
+C#      ████████████████████████████████████████████████████████████ 60%
+C++     ████████████████                                             16%  
+AutoIt  ████████████████                                             16%
+JS      ████                                                          4%
+C       ████                                                          4%
 ```
 
 **Platforms:** Windows, Linux  
 **Frameworks:** UE5.3+, .NET, DirectX12/Vulkan  
-**Specialization:** Performance-critical systems, real-time applications
+**Specialization:** Performance-critical systems, real-time optimization
