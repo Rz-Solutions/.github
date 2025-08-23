@@ -3,43 +3,46 @@
 
 ---
 
-## Technical Metrics
+## Organization Metrics
 
 ```
-Repositories        40
-Private Repos       38
-Total SLOC          ~800K
-Commits             5,200+
-Daily Avg           2.8 commits
-Current Streak      347 days
-Primary Languages   C++ (68%), C# (15%), Python (8%), AutoIt (7%), JS (2%)
+Founded             2022-01-07 (1,324 days active)
+Repositories        40 total (38 private, 2 public)
+Total Codebase      ~1.5GB
+Development Span    2020-2024
+Language Repos      C# (15), Misc/Config (15), C++ (4), AutoIt (4), C (1), JS (1)
+Major Projects      6 (>10KB each)
 ```
 
 ## Core Systems
 
-**Qanga** - UE5 game project with custom C++ components  
-**UE5 Plugins** - Performance optimization and debugging frameworks  
-**Asset Pipeline** - Multi-platform build and deployment automation  
-**Memory Tools** - Process manipulation and profiling libraries  
+**Qanga** - UE5 game project (629KB C++ codebase)  
+**AdaptativeMeshRender** - UE5 plugin system (687KB C++)  
+**CulDeSac** - UE5 development project (22KB C++)  
+**SoleoTech Suite** - Analysis and monitoring tools (C#)  
+**RzAssetControlCenter** - Asset management platform (C#)  
+**YOLOv10 Integration** - Computer vision implementation (12KB)  
 
-## Technical Focus
+## Development Focus
 
-- Real-time rendering optimization
-- Multi-threaded architecture patterns  
-- Cross-platform system integration
-- Performance profiling frameworks
-- UE5 plugin development
+- UE5 plugin architecture and optimization
+- Real-time rendering systems  
+- Memory manipulation frameworks
+- Game development tooling
+- Computer vision integration
+- Asset pipeline automation
 
 ---
 
 ```
-C++     ████████████████████████████████████████████ 68%
-C#      ██████████████████                           15%  
-Python  ████████                                      8%
-AutoIt  ███████                                       7%
-JS      ██                                            2%
+C#      ████████████████████████████████████████████ 37.5%
+Config  ████████████████████████████████████████████ 37.5%  
+C++     ██████████                                   10.0%
+AutoIt  ██████████                                   10.0%
+C       ██▌                                           2.5%
+JS      ██▌                                           2.5%
 ```
 
-**Architecture:** x64, ARM64  
 **Platforms:** Windows, Linux  
-**Frameworks:** UE5, .NET, DirectX12/Vulkan
+**Frameworks:** UE5.3+, .NET, DirectX12/Vulkan  
+**Specialization:** Performance-critical systems, real-time applications
