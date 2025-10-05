@@ -137,14 +137,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="358.9035619959601" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="358.9035619959601" y="0" width="36.10378103492434" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="395.0073430308844" y="0" width="25.350119765204223" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="420.3574627960886" y="0" width="24.223289104005545" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="444.5807519000942" y="0" width="6.10689425947731" height="8" fill="#1C3552"/>
-                    <rect mask="url(#languages-bar)" x="450.6876461595715" y="0" width="5.998498558347008" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="456.68614471791847" y="0" width="1.935259046797015" height="8" fill="#aace60"/>
-                    <rect mask="url(#languages-bar)" x="458.62140376471547" y="0" width="1.378596235284483" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="358.9186840990059" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="358.9186840990059" y="0" width="36.09838059641302" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="395.0170646954189" y="0" width="25.346327869753882" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="420.36339256517283" y="0" width="24.219665760976145" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="444.583058326149" y="0" width="6.10598078432324" height="8" fill="#1C3552"/>
+                    <rect mask="url(#languages-bar)" x="450.6890391104722" y="0" width="5.9976012971268275" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="456.68664040759904" y="0" width="1.934969568875698" height="8" fill="#aace60"/>
+                    <rect mask="url(#languages-bar)" x="458.62160997647476" y="0" width="1.378390023525294" height="8" fill="#dea584"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -257,6 +257,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#5e9bfd3</div>
+                                        <div class="message">Update metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">Rz-Solutions/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#ecaade4</div>
                                         <div class="message">Update metrics.svg - [Skip GitHub Action]</div>
                                     </div>
@@ -326,27 +347,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">Rz-Solutions/.github</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6b5c8c7</div>
-                                        <div class="message">Update metrics.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -369,7 +369,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 4 Oct 2025, 00:56:58  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Oct 2025, 01:05:34  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
