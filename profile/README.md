@@ -20,6 +20,7 @@ Primary Language    C++ (57%)
 ### Qanga
 
 Open-world multiplayer game built on a custom Unreal Engine 5 fork with dedicated server infrastructure.
+Started April 2025 — first serious UE5 C++ project, built from the ground up in under a year.
 
 | | |
 |:--|:--|
@@ -108,10 +109,11 @@ Python     █                                                    0.9%
 
 ```
 2008─2015    Systems programming · C#/.NET frameworks · early game tooling
-2015─2020    Game automation · combat AI · image processing · memory frameworks
-2020─2023    Unreal Engine 5 · game overlays · process instrumentation
-2023─2024    Qanga development · computer vision (YOLO) · asset pipelines
-2024─2026    Custom UE5 engine · Rust tooling · dedicated servers · MCP integrations
+2015─2021    Game automation · combat AI · image processing · memory frameworks
+2021─2025    UE5 exploration (Blueprint/editor) · computer vision · C# asset tooling
+Mar  2025    Pivoted to UE5 C++ — learned engine internals, plugin architecture, rendering
+Apr  2025    Started Qanga — from zero to custom engine fork, 2,400+ commits in under a year
+2025─2026    Custom engine builds · vertex factories · dedicated servers · Rust tooling · MCP
 ```
 
 ---
