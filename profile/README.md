@@ -1,43 +1,35 @@
-# RZ Software
-**Systems Engineering • Performance Optimization • 17+ Years**
+# Rz Solutions
+**Systems Engineering · Performance Optimization · 18+ Years**
 
 ---
 
 ## Development Metrics
 
 ```
-Total Projects      47 (across multiple accounts)
-Repositories        40 (38 private, 2 public in org)
-Total Commits       4,990
-Daily Avg           3.7 commits/day
-Lines of Code       ~770K
-Daily Avg           570 LOC/day
-Total Codebase      1.5GB
-Active Projects     31/40 (77.5%)
+Repositories        48 (46 private · 2 public)
+Total Commits       6,800+
+Lines of Code       ~1.2M
+Active Projects     17 (last 12 months)
 ```
 
 ## Technical Focus
 
-- UE5 plugin architecture and optimization
-- Real-time rendering systems
-- Memory manipulation frameworks
-- Game development automation
-- Computer vision integration
-- Asset pipeline systems
+- **Unreal Engine 5** — Custom engine builds, plugin architecture, rendering pipelines, world streaming
+- **Game Development** — Dynamic quest systems, procedural generation, network replication
+- **Tooling & Automation** — Asset management, Steam deployment, build pipelines, MCP servers
+- **Low-Level Systems** — Memory frameworks, input simulation, game overlays, hooking
+- **Computer Vision** — Pattern matching, YOLO integration, real-time image processing
+- **Security Research** — CTF, reverse engineering
 
 ---
 
 ```
-C++        ██████████████████████████████████████████████████  55.1%
-C#         ████████████████████████                            17.3%
-AutoIt     ██████████                                          9.6%
-JS         █████                                               4.5%
-ASM        ████                                                3.6%
-Python     ███                                                 3.3%
-PineScript ██                                                  2.3%
-Rust       ██                                                  1.9%
-PHP        █                                                   1.4%
-C          █                                                   1.0%
+C++        ██████████████████████████████████████████████████  56.6%
+AutoIt     ███████████████████                                 21.8%
+Rust       ██████                                               6.7%
+C#         █████                                                5.3%
+C          ████                                                 5.0%
+Python     █                                                    0.9%
 ```
 
-**Specialization:** Performance-critical systems, real-time optimization
+**Specialization:** Performance-critical real-time systems · Unreal Engine 5
