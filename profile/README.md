@@ -20,7 +20,7 @@ Primary Language    C++ (57%)
 ### Qanga
 
 Open-world multiplayer game on Unreal Engine 5 with dedicated server infrastructure.
-Originally created by IolaCorp (~2021). Took over 99% of development in April 2025 — first serious UE5 C++ work, ramped up from zero engine experience to custom engine forks and 2,400+ commits in under a year.
+Originally created by IolaCorp (~2021). Took over 99% of development in 2025 — first serious UE5 C++ work, ramped up from zero engine experience to custom engine forks and 2,400+ commits in under a year.
 
 | | |
 |:--|:--|
@@ -111,8 +111,7 @@ Python     █                                                    0.9%
 2008─2015    Systems programming · C#/.NET frameworks · early game tooling
 2015─2021    Game automation · combat AI · image processing · memory frameworks
 2021─2025    UE5 exploration (Blueprint/editor) · computer vision · C# asset tooling
-Mar  2025    Pivoted to UE5 C++ — learned engine internals, plugin architecture, rendering
-Apr  2025    Took over Qanga development (IolaCorp project) — 99% of dev from this point
+2025         Took over Qanga (IolaCorp project) · learned UE5 C++ from scratch
 2025─2026    2,400+ commits · custom engine builds · vertex factories · dedicated servers · Rust tooling
 ```
 
