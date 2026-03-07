@@ -3,25 +3,95 @@
 
 ---
 
-## Development Metrics
+## At a Glance
 
 ```
 Repositories        48 (46 private · 2 public)
 Total Commits       6,800+
 Lines of Code       ~1.2M
 Active Projects     17 (last 12 months)
+Primary Language    C++ (57%)
 ```
 
-## Technical Focus
+---
 
-- **Unreal Engine 5** — Custom engine builds, plugin architecture, rendering pipelines, world streaming
-- **Game Development** — Dynamic quest systems, procedural generation, network replication
-- **Tooling & Automation** — Asset management, Steam deployment, build pipelines, MCP servers
-- **Low-Level Systems** — Memory frameworks, input simulation, game overlays, hooking
-- **Computer Vision** — Pattern matching, YOLO integration, real-time image processing
-- **Security Research** — CTF, reverse engineering
+## Featured Projects
+
+### Qanga
+
+Open-world multiplayer game built on a custom Unreal Engine 5 fork with dedicated server infrastructure.
+
+| | |
+|:--|:--|
+| **Commits** | 2,479 |
+| **Codebase** | 1.4 GB |
+| **Stack** | C++, Custom UE5, Dedicated Servers, Steam SDK |
+| **Key Systems** | Dynamic quest engine, procedural world streaming, adaptive mesh rendering, network replication |
+
+### Custom Unreal Engine 5
+
+Forked engine source with custom modifications across rendering, cook pipeline, and plugin infrastructure.
+
+| | |
+|:--|:--|
+| **Repos** | 3 (CustomUE5 · UE573 · UE571) |
+| **Combined** | 11 GB engine source |
+| **Work** | Vertex factory systems, shader development (HLSL/SM6), cook pipeline stabilization, double-float migration |
+
+### Tooling Ecosystem
+
+Purpose-built tools for asset management, deployment, and workflow automation.
+
+| Tool | Lang | Purpose |
+|:--|:--|:--|
+| **RzAssetControlCenter** | C# | Asset pipeline management and validation |
+| **QangaSteamUploader** | Rust | Automated Steam build deployment (egui GUI) |
+| **backblaze-backup-mcp** | TypeScript | MCP server for Backblaze backup integration |
+| **RzCloak** | Rust | Binary protection |
+| **RziRTool** | C# | Development instrumentation |
 
 ---
+
+## Repository Breakdown
+
+| Category | Repos | Primary Languages |
+|:--|:--:|:--|
+| **UE5 / Game Development** | 9 | C++, C |
+| **Game Automation & AI** | 11 | AutoIt, C#, C++, Python |
+| **Dev Tooling** | 8 | C#, Rust, TypeScript |
+| **Libraries & Frameworks** | 6 | C#, C++ |
+| **Security & Research** | 4 | Python, C# |
+| **Legacy Tools** | 7 | C# |
+
+---
+
+## Technical Domains
+
+**Unreal Engine 5** — Custom engine builds, plugin architecture, rendering pipelines, world streaming, vertex factory systems, shader development, cook pipeline optimization
+
+**Game Systems** — Dynamic quest engine, procedural generation, network replication, dedicated server infrastructure, Steam integration
+
+**Low-Level Systems** — Memory manipulation frameworks, input simulation, game overlays, hooking, process instrumentation, binary analysis
+
+**Computer Vision** — YOLO-based real-time detection, pattern matching engines, image processing pipelines
+
+**Security** — CTF, reverse engineering, binary protection
+
+---
+
+## Tech Stack
+
+| Category | Technologies |
+|:--|:--|
+| **Core** | C++, Unreal Engine 5 (custom fork) |
+| **Systems** | Rust, C |
+| **Tooling** | C#, TypeScript, Python |
+| **Scripting** | AutoIt, JavaScript |
+| **Infrastructure** | Linux dedicated servers, Steam SDK, MCP protocol |
+
+---
+
+## Language Distribution
 
 ```
 C++        ██████████████████████████████████████████████████  56.6%
@@ -31,5 +101,19 @@ C#         █████                                                5.3%
 C          ████                                                 5.0%
 Python     █                                                    0.9%
 ```
+
+---
+
+## Timeline
+
+```
+2008─2015    Systems programming · C#/.NET frameworks · early game tooling
+2015─2020    Game automation · combat AI · image processing · memory frameworks
+2020─2023    Unreal Engine 5 · game overlays · process instrumentation
+2023─2024    Qanga development · computer vision (YOLO) · asset pipelines
+2024─2026    Custom UE5 engine · Rust tooling · dedicated servers · MCP integrations
+```
+
+---
 
 **Specialization:** Performance-critical real-time systems · Unreal Engine 5
